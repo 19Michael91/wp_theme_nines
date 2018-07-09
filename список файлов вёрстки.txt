@@ -1,0 +1,42 @@
+index.html             - done
+zayavka.html           - done
+orenda.html            - done
+loyalnosti.html        - done
+teams.html             - done
+calendar.html          - done
+transfer.html          - done
+reglament.html         - done
+contakts.html          - done
+turnament_tabl.html    - done
+forvards.html          - done
+assistents.html        - done
+discvaliffication.html - done
+post-game.html         - done
+sbornaya.html          - done
+goal-turu.html         - done
+translation.html       - done
+
+=================================
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+=================================
+
+3-time.html
+
+
+index-city.html - "V9KY ÊÈ¯Â"
+
+
+mail.php -> form
+news-page.html - "ÍÎÂÈÍÈ V9KY"
+
+
+statistic.html - 
+statistics.html - 
+
+
+theTeam.html - 
+
+
+zayavka-step-1.html - 
+zayavka-step-2.html - 
+zayavka-step-3.html - 
